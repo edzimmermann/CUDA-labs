@@ -1,0 +1,8 @@
+1) Unpack the zip archive into a directory.
+2) Go to the lab0 directory. (cd lab0)
+3) Start Jupyter:   jupyter notebook
+4) You will see a menu: select the .ipynb file 
+   (its an interactive python notebook)
+
+NOTE: We don't use Python but use the Jupyter notebook for
+its some of its nice convienient services.
